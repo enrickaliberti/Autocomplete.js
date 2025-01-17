@@ -2,7 +2,7 @@
 
 **Autocomplete.js** is a lightweight and customizable JavaScript library for adding autocomplete functionality to input fields. Perfect for enhancing the user experience in web applications, this library is easy to use and highly configurable. 🚀
 
-![Autocomplete.js Preview]((https://placehold.co/800x400?text=Autocomplete.js)
+![Autocomplete.js Preview](https://placehold.co/800x400?text=Autocomplete.js)
 
 ## ✨ Features
 
@@ -94,7 +94,8 @@ Autocomplete.js is configurable through an options object. Here are the availabl
 If you'd like to contribute:
 
 Fork the repository.
-Create a new branch: git checkout -b feature-new-functionality.
+Create a new branch:
+`git checkout -b feature-new-functionality`.
 Make your changes and open a pull request.
 
 ### 📄 License
