@@ -62,9 +62,7 @@
 
 ## 1️⃣ HTML
 Add an input field to your HTML:
-     `<div style="position: relative; width: 300px;">
-       `<input id="myInput" type="text" placeholder="Start typing...">
-     `</div>
+   `<input id="myInput" type="text" placeholder="Start typing...">`
 
 ## 2️⃣ JavaScript
 
