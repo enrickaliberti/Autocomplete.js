@@ -73,8 +73,7 @@ Initialize Autocomplete.js:
         data: data,
         maxSuggestions: 5,
         filter: (item, query) => item.toLowerCase().startsWith(query.toLowerCase()),
-        onSelect: (item) => alert("You selected: ${item}"),
-        renderSuggestion: (item, query) => "<strong>${query}</strong>${item.substr(query.length)}",
+        onSelect: (item) => alert("You selected: ${item}")
       });
 
 ## ⚙️ Configuration
